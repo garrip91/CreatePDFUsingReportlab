@@ -1,0 +1,1 @@
+https://djangodoc.ru/3.1/howto/outputting-pdf/
